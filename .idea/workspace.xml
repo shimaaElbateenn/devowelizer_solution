@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63dfb949-0e96-4a0b-b9f9-8b3a73fdb4e9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/base/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/base/CustomDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testcases/DevowelizerTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2fmtw9gnG23eTYb8kLyU99G4iGN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.DevowelizerTests.executor": "Run",
+    "TestNG.DevowelizerTests.verifyGetEndpoint.executor": "Run",
+    "TestNG.DevowelizerTests.verifyRemovingVowelsCorrectl.executor": "Run",
+    "TestNG.DevowelizerTests.verifyRemovingVowelsCorrectly.executor": "Run",
+    "TestNG.DevowelizerTests.verifyRemovingVowelsFromEmptyString.executor": "Run",
+    "TestNG.DevowelizerTests.verifyRemovingVowelsFromNullString.executor": "Run",
+    "TestNG.DevowelizerTests.verifyRemovingVowelsFromStringWithCapitalCharacters.executor": "Run",
+    "TestNG.DevowelizerTests.verifyRemovingVowelsFromStringWithNumbers.executor": "Run",
+    "TestNG.DevowelizerTests.verifyRemovingVowelsFromStringWithOnlyVowels.executor": "Run",
+    "TestNG.DevowelizerTests.verifyRemovingVowelsWithOnlySpecialChars.executor": "Run",
+    "TestNG.devowelizerTests.verifyGetEndpoint.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/shimaa/IdeaProjects/devowelizer_solution/src/test/java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/test" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.DevowelizerTests.verifyRemovingVowelsFromStringWithCapitalCharacters">
+    <configuration name="DevowelizerTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="devowelizer_solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.DevowelizerTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DevowelizerTests.verifyRemovingVowelsFromEmptyString" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="devowelizer_solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.DevowelizerTests" />
+      <option name="METHOD_NAME" value="verifyRemovingVowelsFromEmptyString" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DevowelizerTests.verifyRemovingVowelsFromStringWithCapitalCharacters" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="devowelizer_solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.DevowelizerTests" />
+      <option name="METHOD_NAME" value="verifyRemovingVowelsFromStringWithCapitalCharacters" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DevowelizerTests.verifyRemovingVowelsFromStringWithNumbers" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="devowelizer_solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.DevowelizerTests" />
+      <option name="METHOD_NAME" value="verifyRemovingVowelsFromStringWithNumbers" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DevowelizerTests.verifyRemovingVowelsWithOnlySpecialChars" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="devowelizer_solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.DevowelizerTests" />
+      <option name="METHOD_NAME" value="verifyRemovingVowelsWithOnlySpecialChars" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DevowelizerTests.verifyRemovingVowelsFromStringWithCapitalCharacters" />
+        <item itemvalue="TestNG.DevowelizerTests" />
+        <item itemvalue="TestNG.DevowelizerTests.verifyRemovingVowelsFromEmptyString" />
+        <item itemvalue="TestNG.DevowelizerTests.verifyRemovingVowelsFromStringWithNumbers" />
+        <item itemvalue="TestNG.DevowelizerTests.verifyRemovingVowelsWithOnlySpecialChars" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63dfb949-0e96-4a0b-b9f9-8b3a73fdb4e9" name="Changes" comment="" />
+      <created>1714418319461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714418319461</updated>
+    </task>
+    <servers />
+  </component>
+</project>
