@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63dfb949-0e96-4a0b-b9f9-8b3a73fdb4e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/CustomDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/base/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testcases/DevowelizerTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="63dfb949-0e96-4a0b-b9f9-8b3a73fdb4e9" name="Changes" comment="Commit the solution with all positive and negative test cases" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +27,6 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.DevowelizerTests.executor": "Run",
     "TestNG.DevowelizerTests.verifyGetEndpoint.executor": "Run",
     "TestNG.DevowelizerTests.verifyRemovingVowelsCorrectl.executor": "Run",
@@ -175,6 +160,19 @@
       <option name="presentableId" value="Default" />
       <updated>1714418319461</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit the solution with all positive and negative test cases">
+      <option name="closed" value="true" />
+      <created>1714425532749</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714425532749</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit the solution with all positive and negative test cases" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit the solution with all positive and negative test cases" />
   </component>
 </project>
